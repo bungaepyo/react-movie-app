@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/bungaepyo/react-movie-app/static/css/main.e5c3403c.chunk.css",
-    "main.js": "/bungaepyo/react-movie-app/static/js/main.ee98be4b.chunk.js",
-    "main.js.map": "/bungaepyo/react-movie-app/static/js/main.ee98be4b.chunk.js.map",
-    "runtime-main.js": "/bungaepyo/react-movie-app/static/js/runtime-main.99088e71.js",
-    "runtime-main.js.map": "/bungaepyo/react-movie-app/static/js/runtime-main.99088e71.js.map",
-    "static/js/2.ec260248.chunk.js": "/bungaepyo/react-movie-app/static/js/2.ec260248.chunk.js",
-    "static/js/2.ec260248.chunk.js.map": "/bungaepyo/react-movie-app/static/js/2.ec260248.chunk.js.map",
-    "index.html": "/bungaepyo/react-movie-app/index.html",
-    "precache-manifest.fe55b2082c7d1ff61a35160aa1dfb5c6.js": "/bungaepyo/react-movie-app/precache-manifest.fe55b2082c7d1ff61a35160aa1dfb5c6.js",
-    "service-worker.js": "/bungaepyo/react-movie-app/service-worker.js",
-    "static/css/main.e5c3403c.chunk.css.map": "/bungaepyo/react-movie-app/static/css/main.e5c3403c.chunk.css.map",
-    "static/js/2.ec260248.chunk.js.LICENSE.txt": "/bungaepyo/react-movie-app/static/js/2.ec260248.chunk.js.LICENSE.txt"
+    "main.css": "/react-movie-app/static/css/main.e5c3403c.chunk.css",
+    "main.js": "/react-movie-app/static/js/main.ee98be4b.chunk.js",
+    "main.js.map": "/react-movie-app/static/js/main.ee98be4b.chunk.js.map",
+    "runtime-main.js": "/react-movie-app/static/js/runtime-main.76984c01.js",
+    "runtime-main.js.map": "/react-movie-app/static/js/runtime-main.76984c01.js.map",
+    "static/js/2.ec260248.chunk.js": "/react-movie-app/static/js/2.ec260248.chunk.js",
+    "static/js/2.ec260248.chunk.js.map": "/react-movie-app/static/js/2.ec260248.chunk.js.map",
+    "index.html": "/react-movie-app/index.html",
+    "precache-manifest.4b0b347cbb62affe317908533a481871.js": "/react-movie-app/precache-manifest.4b0b347cbb62affe317908533a481871.js",
+    "service-worker.js": "/react-movie-app/service-worker.js",
+    "static/css/main.e5c3403c.chunk.css.map": "/react-movie-app/static/css/main.e5c3403c.chunk.css.map",
+    "static/js/2.ec260248.chunk.js.LICENSE.txt": "/react-movie-app/static/js/2.ec260248.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.99088e71.js",
+    "static/js/runtime-main.76984c01.js",
     "static/js/2.ec260248.chunk.js",
     "static/css/main.e5c3403c.chunk.css",
     "static/js/main.ee98be4b.chunk.js"
