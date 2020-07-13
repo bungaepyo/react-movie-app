@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/top20_movie_app/static/css/main.e5c3403c.chunk.css",
+    "main.js": "/top20_movie_app/static/js/main.ee98be4b.chunk.js",
+    "main.js.map": "/top20_movie_app/static/js/main.ee98be4b.chunk.js.map",
+    "runtime-main.js": "/top20_movie_app/static/js/runtime-main.61de245b.js",
+    "runtime-main.js.map": "/top20_movie_app/static/js/runtime-main.61de245b.js.map",
+    "static/js/2.ec260248.chunk.js": "/top20_movie_app/static/js/2.ec260248.chunk.js",
+    "static/js/2.ec260248.chunk.js.map": "/top20_movie_app/static/js/2.ec260248.chunk.js.map",
+    "index.html": "/top20_movie_app/index.html",
+    "precache-manifest.dac1600f975876f9b9e93874e4bb0280.js": "/top20_movie_app/precache-manifest.dac1600f975876f9b9e93874e4bb0280.js",
+    "service-worker.js": "/top20_movie_app/service-worker.js",
+    "static/css/main.e5c3403c.chunk.css.map": "/top20_movie_app/static/css/main.e5c3403c.chunk.css.map",
+    "static/js/2.ec260248.chunk.js.LICENSE.txt": "/top20_movie_app/static/js/2.ec260248.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61de245b.js",
+    "static/js/2.ec260248.chunk.js",
+    "static/css/main.e5c3403c.chunk.css",
+    "static/js/main.ee98be4b.chunk.js"
+  ]
+}
