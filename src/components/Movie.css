@@ -1,3 +1,8 @@
+
+.movie_title, .movie_year, .movie_genres{
+    color: black;
+}
+
 .movies .movie{
     background-color: white;
     margin-bottom: 70px;
@@ -34,7 +39,7 @@
 .movie .motie_title{
     margin-bottom: 5px;
     font-size: 24px;
-    color: #2c2c2c;
+    color: #000000;
 }
 
 .movie .movie_genres{

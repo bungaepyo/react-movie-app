@@ -5,7 +5,7 @@
 
 ## How To Run
 
-- Please visit `https://bungaepyo.github.io/react-movie-app`
+- Please visit https://bungaepyo.github.io/react-movie-app
 
 ## API
 
